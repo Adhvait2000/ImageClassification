@@ -1,10 +1,10 @@
 # ImageClassification
 
-# Overview
+### Overview
 
 This project investigates the efficacy of various machine learning techniques to automatically classify skin lesions, distinguishing between melanoma and nevi. By utilizing a subset of the 2018 ISIC Challenge dataset, the aim is to enhance classification accuracy through advanced techniques such as normalization, data augmentation, and transfer learning.
 
-# Methodology
+### Methodology
 
 The project employs Convolutional Neural Networks (CNNs) to analyze skin lesion images. The approach includes:
 
@@ -12,7 +12,7 @@ The project employs Convolutional Neural Networks (CNNs) to analyze skin lesion 
 * Data Augmentation: Random flipping and grayscaling transformations were used to increase the diversity of the training dataset and improve model robustness.
 * Transfer Learning: Leveraging pre-trained models like VGG16 for improved feature extraction and classification performance.
 
-# Model Performance
+### Model Performance
 
 The following table summarizes the performance of different models employed during the study:
 
